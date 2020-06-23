@@ -1,0 +1,2 @@
+client_id = '8ilkk5rmozrt4v61adcbdwyeslf0p6' # JimothyJam: 'i7omg4cc62tuoa612vtxwx5w07o7fj'
+token = 'oauth:1yc3p7ydewqjp3l6ievx1ou00hhpx9' # JimothyJam: 'oauth:ahibkmem4y0moc62jqbxhbltox63wc' # Botty: 'oauth:1yc3p7ydewqjp3l6ievx1ou00hhpx9'
